@@ -360,7 +360,7 @@ export default function AKSWebSoftSolutions() {
                 </p>
 
                 <p>
-                  <strong>Domain:</strong> akswebxsoft.solutions
+
                 </p>
 
                 <p>
